@@ -11,11 +11,10 @@ import (
 )
 
 var db *sql.DB
-var server = "174.69.115.37"
-var serverFQDN = "mr-scraper.database.windows.net"
+var server = "mr-scraper.database.windows.net"
 var port = 1433
 var user = "canisent"
-var password = "sPTETQPiV8kSPth6BgBHv7JcH"
+var password = ""
 var database = "MrScraper.test"
 
 func main() {
