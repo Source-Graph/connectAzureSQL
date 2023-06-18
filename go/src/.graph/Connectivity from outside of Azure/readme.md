@@ -1,0 +1,1 @@
+https://learn.microsoft.com/en-us/azure/azure-sql/database/connectivity-architecture?view=azuresql#connectivity-from-outside-of-azure

@@ -1,0 +1,1 @@
+https://learn.microsoft.com/en-us/azure/azure-sql/database/develop-overview?view=azuresql
