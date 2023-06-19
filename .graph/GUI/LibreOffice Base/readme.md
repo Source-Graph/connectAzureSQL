@@ -14,4 +14,8 @@ Got there eventually but it was SUPER painful.
 Thanks for your time anyway.
 
 # Answer:
-https://ask.libreoffice.org/t/how-do-i-set-up-a-jdbc-connection-for-microsoft-sql/72975
+- https://ask.libreoffice.org/t/how-do-i-set-up-a-jdbc-connection-for-microsoft-sql/72975
+- https://ask.libreoffice.org/t/how-to-connect-libreoffice-base-to-an-existing-microsoft-sql-server-database/57479
+
+# os: Linux
+http://www.ryanhallman.com/libreoffice-base-connecting-to-mssql-in-linux/
